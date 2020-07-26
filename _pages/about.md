@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate at DistriNet since May 2019, supervised by [Bart Jacobs](https://distrinet.cs.kuleuven.be/people/bartj) and [Amin Timany](https://tildeweb.au.dk/au571806/) (Logic and Semantics Group, Aarhus University).
+I'm a PhD candidate at [DistriNet](https://distrinet.cs.kuleuven.be) since May 2019, supervised by [Bart Jacobs](https://distrinet.cs.kuleuven.be/people/bartj) and [Amin Timany](https://tildeweb.au.dk/au571806/) (Logic and Semantics Group, Aarhus University).
 My research interests are program verification, programming languages and type systems in general.
 In particular, my research currently focuses on I/O liveness verification and, as a first step towards this, on abrupt termination:
 
