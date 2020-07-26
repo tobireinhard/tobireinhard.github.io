@@ -8,12 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate at DistriNet since May 2019, supervised by [Bart Jacobs](https://distrinet.cs.kuleuven.be/people/bartj) and [Amin Timany](https://tildeweb.au.dk/au571806/) (Logic and Semantics Group, Aarhus University). My research interests are program verification, programming languages and type systems in general. In particular, my research currently focuses on I/O liveness verification and, as a first step towards this, on abrupt termination:
+I'm a PhD candidate at DistriNet since May 2019, supervised by [Bart Jacobs](https://distrinet.cs.kuleuven.be/people/bartj) and [Amin Timany](https://tildeweb.au.dk/au571806/) (Logic and Semantics Group, Aarhus University).
+My research interests are program verification, programming languages and type systems in general.
+In particular, my research currently focuses on I/O liveness verification and, as a first step towards this, on abrupt termination:
 
 *A Separation Logic to Verify Termination of Busy-Waiting for Abrupt Program Exit*
 1. [Paper](https://people.cs.kuleuven.be/~tobias.reinhard/AbruptExit.pdf) accepted at [FTfJP 2020](https://2020.ecoop.org/track/FTfJP-2020-papers#Program)
 2. [Technical Report](https://arxiv.org/abs/2007.10215)
 3. [Presentation](https://people.cs.kuleuven.be/~tobias.reinhard/AbruptExit--presentation.pdf) held at [FTfJP 2020](https://2020.ecoop.org/track/FTfJP-2020-papers#Program)
+
+
+Before I joined DistriNet, I obtained my Master's degree from TU Darmstadt.
+During my Master's I worked as student research assistant at [Software Technology Group](https://www.stg.tu-darmstadt.de/stg/homepage.en.jsp) on type systems for multitier-languages such as [ScalaLoci](https://scala-loci.github.io).
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
