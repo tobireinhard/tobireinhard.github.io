@@ -22,7 +22,7 @@ In particular, my research currently focuses on the intertwined topics of verify
   [[Paper](https://arxiv.org/abs/2010.07800)]
   [[TR](https://arxiv.org/abs/2007.10215)]
   [[Bibtex](https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/abruptExit.bib)]
-  [[Presentation](https://people.cs.kuleuven.be/~tobias.reinhard/AbruptExit--presentation.pdf)]
+  [[Slides](https://people.cs.kuleuven.be/~tobias.reinhard/AbruptExit--presentation.pdf)]
 
 
 Before I joined DistriNet, I obtained my Master's degree from TU Darmstadt.
