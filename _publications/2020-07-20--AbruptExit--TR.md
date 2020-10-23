@@ -7,6 +7,7 @@ date: 2020-07-20
 venue: 'arxiv.org'
 paperurl: 'https://arxiv.org/abs/2007.10215'
 citation: 'Tobias Reinhard, Amin Timany, and Bart Jacobs. A Separation Logic to Verify Termination of Busy-Waiting for Abrupt Program Exit: Technical Report. 2020.'
+bibtexurl: 'https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/abruptExit.bib'
 ---
 
 Programs for multiprocessor machines commonly perform busy-waiting for synchronisation. In this paper, we make a first step towards proving termination of such programs. We approximate (i) arbitrary waitable events by abrupt program termination and (ii) busy-waiting for events by busy-waiting to be abruptly terminated.

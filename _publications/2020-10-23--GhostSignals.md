@@ -7,6 +7,7 @@ date: 2020-10-23
 venue: 'arxiv.org'
 paperurl: 'https://arxiv.org/abs/2010.11762'
 citation: 'Tobias Reinhard and Bart Jacobs. Ghost Signals: Verifying Termination of Busy-Waiting. 2020.'
+bibtexurl: 'https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/ghostSignals.bib'
 ---
 
 Programs for multiprocessor machines commonly perform busy-waiting for synchronization.
