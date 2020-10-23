@@ -20,7 +20,7 @@ In particular, my research currently focuses on the intertwined topics of verify
 * *A Separation Logic to Verify Termination of Busy-Waiting for Abrupt Program Exit*,
   accepted at [FTfJP 2020](https://2020.ecoop.org/track/FTfJP-2020-papers#Program)
   [[Paper](https://arxiv.org/abs/2010.07800)]
-  [[Technical Report](https://arxiv.org/abs/2007.10215)]
+  [[TR](https://arxiv.org/abs/2007.10215)]
   [[Bibtex](https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/abruptExit.bib)]
   [[Presentation](https://people.cs.kuleuven.be/~tobias.reinhard/AbruptExit--presentation.pdf)]
 
