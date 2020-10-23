@@ -14,7 +14,7 @@ Programs for multiprocessor machines commonly perform busy-waiting for synchroni
 
 We propose a separation logic for modularly verifying termination (under fair scheduling) of programs where some threads  eventually  abruptly  terminate  the  program, and other threads busy-wait for this to happen.
 
-[Download paper here](https://people.cs.kuleuven.be/~tobias.reinhard/AbruptExit.pdf)
+[Download paper here](https://arxiv.org/pdf/2010.07800.pdf)
 
 This paper's accompanying technical report can be found [here](https://arxiv.org/abs/2007.10215).
 
