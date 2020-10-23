@@ -50,9 +50,21 @@ layout: default
 
 
         {% if page.citation and page.paperurl %}
-          <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
+          <p>
+            Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a>
+            <br>
+            {% if page.bibtexurl %}
+              <a href="{{page.bibtexurl}}">[Bibtex]</a>
+            {% endif %}
+          </p>
         {% elsif page.citation %}
-          <p>Recommended citation: {{ page.citation }} </p>
+          <p>
+            Recommended citation: {{ page.citation }}
+            <br>
+            {% if page.bibtexurl %}
+              <a href="{{page.bibtexurl}}">[Bibtex]</a>
+            {% endif %}
+          </p>
         {% endif %}
 
         </header>

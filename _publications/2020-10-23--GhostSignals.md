@@ -17,7 +17,8 @@ and allow a thread to busy-wait for an event $X$ while another thread promises t
 
 [Paper](https://arxiv.org/pdf/2010.11762.pdf)  
 [Technical Report](https://people.cs.kuleuven.be/~tobias.reinhard/ghostSignals--TR.pdf)
-(Containing full formalization and proofs.)  
-[Bibtex Citation](https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/ghostSignals.bib)  
+(Full formalization and proofs.)  
 
-Recommended citation for technical report: Tobias Reinhard and Bart Jacobs. Ghost Signals: Verifying Termination of Busy-Waiting (Technical Report) 2020. [https://people.cs.kuleuven.be/~tobias.reinhard/ghostSignals--TR.pdf](https://people.cs.kuleuven.be/~tobias.reinhard/ghostSignals--TR.pdf)
+
+Recommended citation for TR: Tobias Reinhard and Bart Jacobs. Ghost Signals: Verifying Termination of Busy-Waiting (Technical Report) 2020. [https://people.cs.kuleuven.be/~tobias.reinhard/ghostSignals--TR.pdf](https://people.cs.kuleuven.be/~tobias.reinhard/ghostSignals--TR.pdf)  
+[[Bibtex](https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/ghostSignals.bib)]
