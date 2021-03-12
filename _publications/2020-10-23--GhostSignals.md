@@ -16,7 +16,7 @@ The proof author further has to define a well-founded order on signals and to pr
 By using conventional shared state invariants to associate the state of ghost signals with the state of data structures, programs busy-waiting for ar- bitrary conditions over arbitrary data structures can be verified.
 
 
-[Paper](https://drive.google.com/file/d/1oCCyINFeHxo4HPIadRTCj1u6i2kQPZB_/view) ([Old Version](https://arxiv.org/pdf/2010.11762.pdf))
+[Paper](https://drive.google.com/file/d/1oCCyINFeHxo4HPIadRTCj1u6i2kQPZB_/view) ([Old Version](https://arxiv.org/pdf/2010.11762.pdf))  
 [Technical Report](https://people.cs.kuleuven.be/~tobias.reinhard/ghostSignals--TR.pdf)
 (Full formalization and proofs.)  
 
