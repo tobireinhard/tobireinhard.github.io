@@ -13,7 +13,7 @@ My research interests are program verification, programming languages and type s
 In particular, my research currently focuses on the intertwined topics of verifying _termination of busy-waiting_ and _I/O liveness_:
 
 * *Ghost Signals: Verifying Termination of Busy-Waiting*
-  [[Paper](https://arxiv.org/abs/2010.11762)]
+  [[Paper](https://drive.google.com/file/d/1oCCyINFeHxo4HPIadRTCj1u6i2kQPZB_/view)]
   [[TR](https://people.cs.kuleuven.be/~tobias.reinhard/ghostSignals--TR.pdf)]
   [[Bibtex](https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/ghostSignals.bib)]
 
