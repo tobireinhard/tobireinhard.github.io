@@ -5,7 +5,6 @@ permalink: /publication/2020-07-23--AbruptExit
 excerpt: 'We propose a separation logic for modularly verifying termination of programs where some threads  eventually  abruptly  terminate  the  program, and other threads busy-wait for this to happen. This work is a first step towards verifying termination of programs involving busy-waiting for arbitrary events.'
 date: 2020-07-23
 venue: 'FTfJP'
-accepted: true
 paperurl: 'https://dl.acm.org/doi/10.1145/3427761.3428345'
 citation: 'Tobias Reinhard, Amin Timany, and Bart Jacobs. A Separation Logic to Verify Termination of Busy-Waiting for Abrupt Program Exit. Accepted at Formal Techniques for Java-like Programs (2020).'
 bibtexurl: 'https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/abruptExit.bib'
