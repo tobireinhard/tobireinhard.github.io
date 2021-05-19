@@ -12,8 +12,9 @@ I'm a PhD candidate at [DistriNet](https://distrinet.cs.kuleuven.be) since May 2
 My research interests are program verification, programming languages and type systems in general.
 In particular, my research currently focuses on the intertwined topics of verifying _termination of busy-waiting_ and _I/O liveness_:
 
-* *Ghost Signals: Verifying Termination of Busy-Waiting*
-  [[Paper](https://drive.google.com/file/d/1oCCyINFeHxo4HPIadRTCj1u6i2kQPZB_/view)]
+* *Ghost Signals: Verifying Termination of Busy Waiting*,
+  accepted at [CAV 2021](http://i-cav.org/2021/accepted-papers/)
+  [[Paper](https://arxiv.org/abs/2010.11762)]
   [[TR](https://people.cs.kuleuven.be/~tobias.reinhard/ghostSignals--TR.pdf)]
   [[Bibtex](https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/ghostSignals.bib)]
 
