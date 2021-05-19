@@ -9,8 +9,22 @@ redirect_from:
 ---
 
 I'm a PhD candidate at [DistriNet](https://distrinet.cs.kuleuven.be) since May 2019, supervised by [Bart Jacobs](https://distrinet.cs.kuleuven.be/people/bartj) and [Amin Timany](https://tildeweb.au.dk/au571806/) (Logic and Semantics Group, Aarhus University).
-My pronouns are "he/they".
-My research interests are program verification, programming languages and type systems in general.
+My pronouns are "he/they" and my general research interests are:
+
+
+
+<style>
+table, tr, td {
+  font-size: large;
+  border: 0px
+}
+</style>
+
+Program Verification  | Automated Reasoning
+Programming Languages | Type Systems
+Static Analysis       | Natural Language Processing
+
+
 In particular, my research currently focuses on the intertwined topics of verifying _termination of busy-waiting_ and _I/O liveness_:
 
 * *Ghost Signals: Verifying Termination of Busy Waiting*,
