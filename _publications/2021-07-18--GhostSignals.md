@@ -7,7 +7,6 @@ Our logic requires the proof author to associate a so-called _ghost signal_ with
 By using conventional shared state invariants to associate the state of ghost signals with the state of data structures, programs busy-waiting for arbitrary conditions over arbitrary data structures can be verified.'
 date: 2021-07-18
 venue: 'CAV'
-accepted: true
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-81688-9_2'
 citation: 'Tobias Reinhard and Bart Jacobs. Ghost Signals: Verifying Termination of Busy-Waiting (Extended Version). 2021.'
 bibtexurl: 'https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/ghostSignals.bib'
@@ -20,10 +19,10 @@ The proof author further has to define a well-founded order on signals and to pr
 By using conventional shared state invariants to associate the state of ghost signals with the state of data structures, programs busy-waiting for arbitrary conditions over arbitrary data structures can be verified.
 
 
-[Paper](https://link.springer.com/chapter/10.1007/978-3-030-81688-9_2)  
-[Talk](https://ucl-pplv.github.io/CAV21/poster_P_158/)  
-[Extended Version](https://arxiv.org/abs/2010.11762)  
-[Technical Report](https://people.cs.kuleuven.be/~tobias.reinhard/ghostSignals--TR.pdf)
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-030-81688-9_2)]
+[[Talk](https://ucl-pplv.github.io/CAV21/poster_P_158/)]  
+[[Extended Version](https://arxiv.org/abs/2010.11762)]
+[[Technical Report](https://people.cs.kuleuven.be/~tobias.reinhard/ghostSignals--TR.pdf)]
 (Full formalization and proofs.)  
 
 
