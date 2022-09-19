@@ -62,7 +62,7 @@ at
 [Amazon Web Services](https://aws.amazon.com/).
 During this internship I explored ways to progress from bounded to unbounded verification.
 My research focused on (automatic) memory safety proofs for heap-manipulating programs that involve inductive data structures.
-I am happy to return in summer 2022.
+I am happy to return in autumn 2022.
 
 
 ## Before my PhD
