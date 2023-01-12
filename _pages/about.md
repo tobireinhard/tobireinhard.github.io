@@ -12,7 +12,10 @@ I'm a PhD candidate at
 [DistriNet](https://distrinet.cs.kuleuven.be)
 at
 [KU Leuven](https://www.kuleuven.be/english/kuleuven/),
-working on verification techniques for heap-manipulating programs and supervised by [Bart Jacobs](https://distrinet.cs.kuleuven.be/people/bartj). My overall goal is to simplify program verification. My current research focuses on *completeness thresholds* for memory safety proofs. The goal of this work is to turn bounded memory safety proofs into unbounded ones.
+working on verification techniques for heap-manipulating programs and supervised by [Bart Jacobs](https://distrinet.cs.kuleuven.be/people/bartj).
+My overall goal is to simplify program verification.
+My current research focuses on *completeness thresholds* for memory safety proofs.
+The goal of this work is to turn bounded memory safety proofs into unbounded ones.
 [](
 Previously, I developed a separation-logic-based technique
 ([ghost signals](https://link.springer.com/chapter/10.1007/978-3-030-81688-9_2))
