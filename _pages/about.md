@@ -36,6 +36,34 @@ Programming Languages | Type Systems
 Static Analysis       | Natural Language Processing
 
 
+## AWS
+
+In autumn 2022 and summer 2021, I worked as applied scientist intern with
+[Mark Tuttle](https://www.markrtuttle.com/)
+in the
+[Automated Reasoning Group](https://aws.amazon.com/security/provable-security/)
+at
+[Amazon Web Services](https://aws.amazon.com/).
+
+During my 2022 internship I
+[verified](
+  https://github.com/Tobias-internship-AWS-2022/FreeRTOS-Kernel/tree/verifast_switch_context/Test/VeriFast/tasks/vTaskSwitchContext
+)
+the multicore implementation of the
+[FreeRTOS scheduler](https://github.com/FreeRTOS/FreeRTOS-Kernel/tree/smp),
+identified a buffer underflow, proposed a fix and proved that it works.
+
+[FreeRTOS](https://freertos.org)
+is a state-of-the-art real-time operating system for embedded systems that runs on many IoT devices.
+Originally it had been developed for single-core platforms and is currently being ported to multi-core.
+Using
+[VeriFast](https://github.com/verifast/verifast),
+a deductive verifier for C based on separation logic, I proved the scheduler to be memory and thread safe, once my fix has been applied.
+The proof is an *unbounded* proof, that is, the provided guarantees hold for all possible interleavings and no matter how big the involved data structures are.
+
+During my 2021 internship I explored ways to progress from bounded to unbounded verification.
+My research focused on (automatic) memory safety proofs for heap-manipulating programs that involve inductive data structures.
+
 
 ## Liveness
 During my previous research project, I developed a separation logic to verify liveness properties of concurrent programs:
@@ -53,19 +81,6 @@ During my previous research project, I developed a separation logic to verify li
   [[TR](https://arxiv.org/abs/2007.10215)]
   [[Bibtex](https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/abruptExit.bib)]
   [[Slides](https://people.cs.kuleuven.be/~tobias.reinhard/AbruptExit--presentation.pdf)]
-
-
-## AWS
-
-In summer 2021, I worked as applied scientist intern with
-[Mark Tuttle](https://www.markrtuttle.com/)
-in the
-[Automated Reasoning Group](https://aws.amazon.com/security/provable-security/)
-at
-[Amazon Web Services](https://aws.amazon.com/).
-During this internship I explored ways to progress from bounded to unbounded verification.
-My research focused on (automatic) memory safety proofs for heap-manipulating programs that involve inductive data structures.
-I am happy to return in autumn 2022.
 
 
 ## Before my PhD
