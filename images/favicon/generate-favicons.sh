@@ -38,10 +38,10 @@ echo Converting SVG file "$SVG_FILE" to PNGs
 for s in "${sizes[@]}"; do
   echo Converting to size $s
   out_file="favicon-$s.png"
-  convert -resize $s -transparent white "$SVG_FILE" "$out_file"
+  convert -resize $s -background none "$SVG_FILE" "$out_file"
   echo "    -> $out_file"
 done
 
 echo Converting SVG file "$SVG_FILE" to ICO
-convert -resize 256x256 -transparent white "$SVG_FILE" favicon.ico
+convert -resize 256x256 -background none "$SVG_FILE" favicon.ico
 echo "    -> favicon.ico"
