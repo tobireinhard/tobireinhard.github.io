@@ -63,6 +63,7 @@ The proof is an *unbounded* proof, that is, the provided guarantees hold for all
 
 During my 2021 internship I explored ways to progress from bounded to unbounded verification.
 My research focused on (automatic) memory safety proofs for heap-manipulating programs that involve inductive data structures.
+I worked on separation-logic based deductive verification as well as on a research prototype that's based on a mixture of automatic axiom instantiation and term rewriting.
 
 
 ## Liveness
