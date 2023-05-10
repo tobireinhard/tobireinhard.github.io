@@ -19,7 +19,7 @@ Moreover, we demonstrate that we can characterise completeness thresholds for si
 Finally, we suggest avenues of research to scale this technique theoretically, i.e., to larger classes of programs (heap manipulation, tree-like data structures), and practically by highlighting automation opportunities.
 
 
-[[Paper (preprint)](https://arxiv.org/abs/2305.03606)]
+[[Paper (preprint)](https://arxiv.org/abs/2305.03606)]  
 [[Technical Report](https://arxiv.org/abs/2211.11885)]
 (Full formalization and proofs.)  
 
