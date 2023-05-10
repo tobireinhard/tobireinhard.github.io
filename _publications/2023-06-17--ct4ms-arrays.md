@@ -9,7 +9,7 @@ Finally, we suggest avenues of research to scale this technique theoretically, i
 date: 2023-06-17
 venue: 'accepted at SOAP'
 paperurl: 'https://arxiv.org/abs/2305.03606'
-citation: 'Tobias Reinhard, Justus Fasse and Bart Jacobs. 2023. Completeness Thresholds for Memory Safety of Array Traversing Programs. arXiv:[2305.03606](https://arxiv.org/pdf/2305.03606.pdf)'
+citation: 'Tobias Reinhard, Justus Fasse and Bart Jacobs. 2023. Completeness Thresholds for Memory Safety of Array Traversing Programs.' arXiv:[2305.03606](https://arxiv.org/pdf/2305.03606.pdf)
 bibtexurl: 'https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/ct4ms-arrays.bib'
 ---
 
