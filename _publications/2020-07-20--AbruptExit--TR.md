@@ -6,7 +6,7 @@ excerpt: 'We propose a separation logic for modularly verifying termination of p
 date: 2020-07-20
 venue: 'arxiv.org'
 paperurl: 'https://arxiv.org/abs/2007.10215'
-citation: 'Tobias Reinhard, Amin Timany, and Bart Jacobs. A Separation Logic to Verify Termination of Busy-Waiting for Abrupt Program Exit: Technical Report. 2020.'
+citation: 'Tobias Reinhard, Amin Timany, and Bart Jacobs. 2020. A Separation Logic to Verify Termination of Busy-Waiting for Abrupt Program Exit: Technical Report.'
 bibtexurl: 'https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/abruptExit.bib'
 ---
 

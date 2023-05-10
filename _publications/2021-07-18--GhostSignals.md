@@ -8,7 +8,7 @@ By using conventional shared state invariants to associate the state of ghost si
 date: 2021-07-18
 venue: 'CAV'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-81688-9_2'
-citation: 'Tobias Reinhard and Bart Jacobs. Ghost Signals: Verifying Termination of Busy-Waiting (Extended Version). 2021.'
+citation: 'Tobias Reinhard and Bart Jacobs. 2021. Ghost Signals: Verifying Termination of Busy-Waiting (Extended Version).'
 bibtexurl: 'https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/ghostSignals.bib'
 ---
 
@@ -26,5 +26,5 @@ By using conventional shared state invariants to associate the state of ghost si
 (Full formalization and proofs.)  
 
 
-Recommended citation for TR: Tobias Reinhard and Bart Jacobs. Ghost Signals: Verifying Termination of Busy-Waiting (Technical Report) 2021. [https://people.cs.kuleuven.be/~tobias.reinhard/ghostSignals--TR.pdf](https://people.cs.kuleuven.be/~tobias.reinhard/ghostSignals--TR.pdf)  
+Recommended citation for TR: Tobias Reinhard and Bart Jacobs. 2021. Ghost Signals: Verifying Termination of Busy-Waiting (Technical Report). [https://people.cs.kuleuven.be/~tobias.reinhard/ghostSignals--TR.pdf](https://people.cs.kuleuven.be/~tobias.reinhard/ghostSignals--TR.pdf)  
 [[Bibtex](https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/ghostSignals.bib)]
