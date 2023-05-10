@@ -8,7 +8,7 @@ Moreover, we present some preliminary ideas on how completeness thresholds can b
 date: 2023-05-05
 venue: 'arxiv.org'
 paperurl: 'https://arxiv.org/abs/2211.11885'
-citation: 'Tobias Reinhard. 2023. Completeness Thresholds for Memory Safety of Array Traversing Programs: Early Technical Report. arXiv:[2211.11885](https://arxiv.org/pdf/2211.11885.pdf)'
+citation: 'Tobias Reinhard. 2023. Completeness Thresholds for Memory Safety of Array Traversing Programs: Early Technical Report. arXiv:2211.11885'
 bibtexurl: 'https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/ct4ms-arrays--TR.bib'
 ---
 
