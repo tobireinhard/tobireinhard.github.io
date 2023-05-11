@@ -14,6 +14,7 @@ linkSWOP: https://onderwijsaanbod.kuleuven.be/syllabi/n/G0Q40CN.htm#activetab=do
 
 Year | University   | Course  
 -----|--------------|--------------------------------------
+2023 | KU Leuven    | [Object-Oriented Programming]({{page.linkOGP}})
 2022 | KU Leuven    | [Object-Oriented Programming]({{page.linkOGP}})
 2020 | KU Leuven    | [Software Design]({{page.linkSWOP}})
      |              | [Object-Oriented Programming]({{page.linkOGP}})
