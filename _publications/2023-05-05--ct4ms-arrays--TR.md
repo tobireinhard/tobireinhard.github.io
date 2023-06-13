@@ -19,7 +19,7 @@ Moreover, we present some preliminary ideas on how completeness thresholds can b
 
 [[Download TR here](https://arxiv.org/abs/2211.11885)]
 
-The paper corresponding to this technical report (published at 
+The paper corresponding to this technical report (
 [SOAP 2023](https://pldi23.sigplan.org/home/SOAP-2023#event-overview)
 ) can be found 
 [here](https://reito.eu/publication/2023-06-17--ct4ms-arrays).
