@@ -7,7 +7,7 @@ Specifically, we consider heap-manipulating programs that iterate over arrays wi
 Moreover, we demonstrate that we can characterise completeness thresholds for simple classes of array traversing programs. 
 Finally, we suggest avenues of research to scale this technique theoretically, i.e., to larger classes of programs (heap manipulation, tree-like data structures), and practically by highlighting automation opportunities.'
 date: 2023-06-17
-venue: 'accepted at SOAP'
+venue: 'SOAP'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3589250.3596143'
 citation: 'Tobias Reinhard, Justus Fasse and Bart Jacobs. 2023. Completeness Thresholds for Memory Safety of Array Traversing Programs. In Proceedings of the 12th ACM SIGPLAN International Workshop on the State Of the Art in Program Analysis'
 bibtexurl: 'https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/SOAP23--CTs4MS-Arrays/ct4ms-arrays.bib'
@@ -22,6 +22,7 @@ Finally, we suggest avenues of research to scale this technique theoretically, i
 [[Paper](https://dl.acm.org/doi/abs/10.1145/3589250.3596143]  
 [[Technical Report](https://arxiv.org/abs/2211.11885)]
 (Full formalization and proofs.)  
+[Presentation as [keynote](https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/SOAP23--CTs4MS-Arrays/SOAP23-ct4ms-arrays-presentation.key) / [pdf](https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/SOAP23--CTs4MS-Arrays/SOAP23-ct4ms-arrays-presentation.pdf)]
 
 
 Recommended citation for TR: Tobias Reinhard, Justus Fasse and Bart Jacobs. 2023. Completeness Thresholds for Memory Safety of Array Traversing Programs: Early Technical Report. arXiv:[2211.11885](https://arxiv.org/pdf/2211.11885.pdf)
