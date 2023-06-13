@@ -20,7 +20,7 @@ The goal of this work is to reduce unbounded memory safety proofs to bounded one
   [accepted at SOAP 2023](https://pldi23.sigplan.org/home/SOAP-2023#event-overview)  
   [[Paper (preprint)](https://arxiv.org/abs/2305.03606)]
   [[Technical Report](https://arxiv.org/abs/2211.11885)]
-  [[Bibtex](https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/ct4ms-arrays.bib)]
+  [[Bibtex](https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/SOAP23--CTs4MS-Arrays/ct4ms-arrays.bib)]
 [](
 Previously, I developed a separation-logic-based technique
 ([ghost signals](https://link.springer.com/chapter/10.1007/978-3-030-81688-9_2))

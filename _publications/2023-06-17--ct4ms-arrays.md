@@ -10,7 +10,7 @@ date: 2023-06-17
 venue: 'accepted at SOAP'
 paperurl: 'https://arxiv.org/abs/2305.03606'
 citation: 'Tobias Reinhard, Justus Fasse and Bart Jacobs. 2023. Completeness Thresholds for Memory Safety of Array Traversing Programs. arXiv:2305.03606'
-bibtexurl: 'https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/ct4ms-arrays.bib'
+bibtexurl: 'https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/SOAP23--CTs4MS-Arrays/ct4ms-arrays.bib'
 ---
 
 We report on intermediate results of -- to the best of our knowledge -- the first study of completeness thresholds for (partially) bounded memory safety proofs. 
