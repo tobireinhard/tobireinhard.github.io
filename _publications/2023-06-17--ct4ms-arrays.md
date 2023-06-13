@@ -8,8 +8,8 @@ Moreover, we demonstrate that we can characterise completeness thresholds for si
 Finally, we suggest avenues of research to scale this technique theoretically, i.e., to larger classes of programs (heap manipulation, tree-like data structures), and practically by highlighting automation opportunities.'
 date: 2023-06-17
 venue: 'accepted at SOAP'
-paperurl: 'https://arxiv.org/abs/2305.03606'
-citation: 'Tobias Reinhard, Justus Fasse and Bart Jacobs. 2023. Completeness Thresholds for Memory Safety of Array Traversing Programs. arXiv:2305.03606'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3589250.3596143'
+citation: 'Tobias Reinhard, Justus Fasse and Bart Jacobs. 2023. Completeness Thresholds for Memory Safety of Array Traversing Programs. In Proceedings of the 12th ACM SIGPLAN International Workshop on the State Of the Art in Program Analysis'
 bibtexurl: 'https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/SOAP23--CTs4MS-Arrays/ct4ms-arrays.bib'
 ---
 
@@ -19,7 +19,7 @@ Moreover, we demonstrate that we can characterise completeness thresholds for si
 Finally, we suggest avenues of research to scale this technique theoretically, i.e., to larger classes of programs (heap manipulation, tree-like data structures), and practically by highlighting automation opportunities.
 
 
-[[Paper (preprint)](https://arxiv.org/abs/2305.03606)]  
+[[Paper](https://dl.acm.org/doi/abs/10.1145/3589250.3596143]  
 [[Technical Report](https://arxiv.org/abs/2211.11885)]
 (Full formalization and proofs.)  
 
