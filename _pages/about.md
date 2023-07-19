@@ -19,7 +19,7 @@ The goal of this work is to reduce unbounded memory safety proofs to bounded one
 * *Completeness Thresholds for Memory Safety of Array Traversing Programs*,
   [SOAP 2023](https://pldi23.sigplan.org/home/SOAP-2023#event-overview)  
   [Paper
-    [ACM](https://dl.acm.org/doi/abs/10.1145/3589250.3596143)]
+    [ACM](https://dl.acm.org/doi/abs/10.1145/3589250.3596143)
     / [arXiv](https://arxiv.org/abs/2305.03606)
   ]
   [[Technical Report](https://arxiv.org/abs/2211.11885)]
