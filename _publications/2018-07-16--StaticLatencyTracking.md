@@ -2,7 +2,7 @@
 title: "Static Latency Tracking with Placement Types"
 collection: publications
 permalink: /publication/2018-07-16--StaticLatencyTracking
-excerpt: 'We present a preliminary investigation of a type system that tracks latency and makes the cost of remote calls explicit, raising developers’ awareness of communication overhead.'
+#excerpt: 'We present a preliminary investigation of a type system that tracks latency and makes the cost of remote calls explicit, raising developers’ awareness of communication overhead.'
 date: 2018-07-16
 venue: 'FTfJP'
 paperurl: 'https://dl.acm.org/doi/10.1145/3236454.3236486'
