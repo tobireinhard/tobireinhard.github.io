@@ -25,6 +25,9 @@ The goal of this work is to reduce unbounded memory safety proofs to bounded one
   [[Bibtex](https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/SOAP23--CTs4MS-Arrays/ct4ms-arrays.bib)]
 * *Completeness Thresholds for Memory Safety: Unbounded Guarantees via Bounded Proofs (Extended Abstract)*,
   [[arXiv](https://arxiv.org/abs/2309.09731)]
+* *Completeness Thresholds for Memory Safety: Unbounded Guarantees Via Bounded Proofs (Poster)*,
+  [SPLASH 2023](https://2023.splashcon.org/track/splash-2023-Posters#event-overview)
+  [[Zenodo](https://zenodo.org/records/10066197)]
 [](
 Previously, I developed a separation-logic-based technique
 ([ghost signals](https://link.springer.com/chapter/10.1007/978-3-030-81688-9_2))
