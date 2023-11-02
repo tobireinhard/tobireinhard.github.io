@@ -28,15 +28,13 @@ The goal of this work is to reduce unbounded memory safety proofs to bounded one
 * *Completeness Thresholds for Memory Safety: Unbounded Guarantees Via Bounded Proofs (Poster)*,
   [SPLASH 2023](https://2023.splashcon.org/track/splash-2023-Posters#event-overview)
   [[Zenodo](https://zenodo.org/records/10066197)]
-* Invited talks:
-  * *Completeness Thresholds for Memory Safety:  Unbounded Guarantees via Bounded Proofs*,
-    October 2023,
+* Invited talks on *Completeness Thresholds for Memory Safety:  Unbounded Guarantees via Bounded Proofs*
+  * October 2023,
     [Programming Group @ HSG, St Gallen](https://programming-group.com)
     [Presentation as 
       [keynote](https://github.com/tobireinhard/Publications/raw/master/talks/invited/HSG--Programming_Group--CTs--2023/HSG_2023--ct4ms--presentation.key) / 
       [pdf](https://github.com/tobireinhard/Publications/raw/master/talks/invited/HSG--Programming_Group--CTs--2023/HSG_2023--ct4ms--presentation.pdf)]
-  * *Completeness Thresholds for Memory Safety: Unbounded Guarantees via Bounded Proofs*,
-    planned for November 2023,
+  * planned for November 2023,
     Programming Languages and Verification Seminar @ Portland State University
 [](
 Previously, I developed a separation-logic-based technique
