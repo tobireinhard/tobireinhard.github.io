@@ -44,8 +44,6 @@ to verify liveness properties of concurrent programs.
 )
 
 [](blank line)
-` `  
-` `  
 
 My general research interests are:
 
