@@ -42,7 +42,8 @@ Previously, I developed a separation-logic-based technique
 ([ghost signals](https://link.springer.com/chapter/10.1007/978-3-030-81688-9_2))
 to verify liveness properties of concurrent programs.
 )
-
+  
+  
 My general research interests are:
 
 <style>
