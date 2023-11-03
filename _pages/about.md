@@ -43,7 +43,7 @@ Previously, I developed a separation-logic-based technique
 to verify liveness properties of concurrent programs.
 )
 
-# blank line
+[](blank line)
 ` `  
 ` `  
 
