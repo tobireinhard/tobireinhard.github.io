@@ -8,12 +8,14 @@ linkFGdI1: https://raw.githubusercontent.com/tu-darmstadt-informatik/Formale-Gru
 linkFGdI2: https://raw.githubusercontent.com/tu-darmstadt-informatik/Formale-Grundlagen-der-Informatik-2/master/script/fgdi2-script-aussagelogik-2010-SoSe.pdf
 linkOGP: https://github.com/btj/ogp-notes
 linkSWOP: https://onderwijsaanbod.kuleuven.be/syllabi/n/G0Q40CN.htm#activetab=doelstellingen_idm11972816
+linkBvP: https://onderwijsaanbod.kuleuven.be/syllabi/n/G0N28AN.htm#activetab=doelstellingen_idp1592368
 ---
 
 {% include base_path %}
 
 Year | University   | Course  
 -----|--------------|--------------------------------------
+2023 | KU Leuven    | [Principles of Programming]({{page.linkBvP}})
 2023 | KU Leuven    | [Object-Oriented Programming]({{page.linkOGP}})
 2022 | KU Leuven    | [Object-Oriented Programming]({{page.linkOGP}})
 2020 | KU Leuven    | [Software Design]({{page.linkSWOP}})
