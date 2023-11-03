@@ -27,7 +27,7 @@ The goal of this work is to reduce unbounded memory safety proofs to bounded one
   * Poster,
     [SPLASH 2023](https://2023.splashcon.org/track/splash-2023-Posters#event-overview)
     [[Zenodo](https://zenodo.org/records/10066197)]
-  * Extended Abstract, 
+  * Extended Abstract
     [[arXiv](https://arxiv.org/abs/2309.09731)]
 * Invited talks on completeness thresholds:
   * [Programming Group @ HSG, St Gallen](https://programming-group.com)
