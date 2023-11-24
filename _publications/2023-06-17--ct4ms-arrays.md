@@ -24,7 +24,7 @@ Finally, we suggest avenues of research to scale this technique theoretically, i
   / [arXiv](https://arxiv.org/abs/2305.03606)]  
 [[Technical Report](https://arxiv.org/abs/2211.11885)]
 (Full formalization and proofs.)  
-[Presentation as [keynote](https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/SOAP23--CTs4MS-Arrays/SOAP23-ct4ms-arrays-presentation.key) / [pdf](https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/SOAP23--CTs4MS-Arrays/SOAP23-ct4ms-arrays-presentation.pdf)]
+[[Presentation](https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/SOAP23--CTs4MS-Arrays/SOAP23-ct4ms-arrays-presentation.pdf)]
 
 
 Recommended citation for TR: Tobias Reinhard, Justus Fasse and Bart Jacobs. 2023. Completeness Thresholds for Memory Safety of Array Traversing Programs: Early Technical Report. arXiv:[2211.11885](https://arxiv.org/pdf/2211.11885.pdf)
