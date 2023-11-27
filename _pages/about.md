@@ -56,7 +56,7 @@ table, tr, td {
 Program Verification  | Automated Reasoning
 Separation Logic      | Bounded & Unbounded Proofs
 Programming Languages | Type Systems
-Static Analysis       | Natural Language Processing
+Static Analysis       | Reversible Programming
 
 
 ## AWS
