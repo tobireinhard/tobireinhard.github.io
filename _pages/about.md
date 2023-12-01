@@ -33,8 +33,9 @@ The goal of this work is to reduce unbounded memory safety proofs to bounded one
   * [Programming Group @ HSG, St Gallen](https://programming-group.com)
     [[Presentation](https://github.com/tobireinhard/Publications/raw/master/talks/invited/HSG--Programming_Group--CTs--2023/HSG_2023--ct4ms--presentation.pdf)],
     October 2023
-  * Programming Languages and Verification Seminar @ Portland State University,  
-    planned for November 2023
+  * Programming Languages and Verification Seminar @ Portland State University
+    [[Presentation](https://github.com/tobireinhard/Publications/raw/master/talks/invited/PSU--PLV_seminar--CTs--2023/PSU_2023--ct4ms--presentation.pdf)],
+    November 2023
 [](
 Previously, I developed a separation-logic-based technique
 ([ghost signals](https://link.springer.com/chapter/10.1007/978-3-030-81688-9_2))
