@@ -28,7 +28,8 @@ I recently completed my PhD on liveness verification and completeness thresholds
 )
 under the supervision of 
 [Bart Jacobs](https://distrinet.cs.kuleuven.be/people/bartj).
-* *Semi-Automated Modular Formal Verification of Critical Software: Liveness and Completeness Thresholds*
+
+Dissertation: *Semi-Automated Modular Formal Verification of Critical Software: Liveness and Completeness Thresholds*
   [[Lirias (KU Leuven)](https://lirias.kuleuven.be/4140343&lang=en)]
   [[arXiv](https://arxiv.org/abs/2403.00934)]
 
