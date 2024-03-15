@@ -14,12 +14,12 @@ redirect_from:
   [KU Leuven](https://www.kuleuven.be/english/kuleuven/),
   working on verification techniques for heap-manipulating programs and supervised by [Bart Jacobs](https://distrinet.cs.kuleuven.be/people/bartj).
 )
+
 I'm a postdoc and software verification expert at
 [DistriNet](https://distrinet.cs.kuleuven.be),
 [KU Leuven](https://www.kuleuven.be/english/)
 working on verification techniques for imperative, heap-manipulating programs.
-My overall goal is to simplify program verification.
-I recently obtained my PhD
+I recently completed my PhD on liveness verification and completeness thresholds
 [](
   from
   [DistriNet](https://distrinet.cs.kuleuven.be),
@@ -27,6 +27,8 @@ I recently obtained my PhD
 )
 under the supervision of 
 [Bart Jacobs](https://distrinet.cs.kuleuven.be/people/bartj).
+
+My overall goal is to simplify program verification.
 * *Semi-Automated Modular Formal Verification of Critical Software: Liveness and Completeness Thresholds*
   [[Lirias (KU Leuven)](https://lirias.kuleuven.be/4140343&lang=en)]
   [[arXiv](https://arxiv.org/abs/2403.00934)]
