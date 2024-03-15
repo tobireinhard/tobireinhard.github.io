@@ -70,6 +70,7 @@ to verify liveness properties of concurrent programs.
 [](blank line)
 ` `  
 
+## Research Interests
 My general research interests are:
 
 <style>
