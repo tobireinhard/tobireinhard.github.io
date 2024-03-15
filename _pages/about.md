@@ -30,7 +30,8 @@ under the supervision of
 
 
 ## Dissertation
-*Semi-Automated Modular Formal Verification of Critical Software: Liveness and Completeness Thresholds*
+*Semi-Automated Modular Formal Verification of Critical Software: Liveness and Completeness Thresholds*,
+KU Leuven 2024  
 [[Lirias (KU Leuven)](https://lirias.kuleuven.be/4140343&lang=en)]
 [[arXiv](https://arxiv.org/abs/2403.00934)]
 
