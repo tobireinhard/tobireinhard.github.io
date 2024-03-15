@@ -8,12 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate at
-[DistriNet](https://distrinet.cs.kuleuven.be)
-at
-[KU Leuven](https://www.kuleuven.be/english/kuleuven/),
-working on verification techniques for heap-manipulating programs and supervised by [Bart Jacobs](https://distrinet.cs.kuleuven.be/people/bartj).
+[](I'm a PhD candidate at
+  [DistriNet](https://distrinet.cs.kuleuven.be)
+  at
+  [KU Leuven](https://www.kuleuven.be/english/kuleuven/),
+  working on verification techniques for heap-manipulating programs and supervised by [Bart Jacobs](https://distrinet.cs.kuleuven.be/people/bartj).
+)
+I'm a postdoc and software verification expert at
+[DistriNet](https://distrinet.cs.kuleuven.be),
+[KU Leuven](https://www.kuleuven.be/english/
+working on verification techniques for imperative, heap-manipulating programs.
 My overall goal is to simplify program verification.
+I recently obtained my PhD
+[](
+  from
+  [DistriNet](https://distrinet.cs.kuleuven.be),
+  [KU Leuven](https://www.kuleuven.be/english/kuleuven/)
+)
+under the supervision of 
+[Bart Jacobs](https://distrinet.cs.kuleuven.be/people/bartj).
+* *Semi-Automated Modular Formal Verification of Critical Software: Liveness and Completeness Thresholds*
+  [[Lirias (KU Leuven)](https://lirias.kuleuven.be/4140343&lang=en)]
+  [[arXiv](https://arxiv.org/abs/2403.00934)]
+
 My current research focuses on *completeness thresholds* for memory safety proofs.
 The goal of this work is to reduce unbounded memory safety proofs to bounded ones.
 * *Completeness Thresholds for Memory Safety of Array Traversing Programs*,
