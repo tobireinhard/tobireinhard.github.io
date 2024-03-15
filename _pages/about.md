@@ -16,7 +16,7 @@ redirect_from:
 )
 I'm a postdoc and software verification expert at
 [DistriNet](https://distrinet.cs.kuleuven.be),
-[KU Leuven](https://www.kuleuven.be/english/
+[KU Leuven](https://www.kuleuven.be/english/)
 working on verification techniques for imperative, heap-manipulating programs.
 My overall goal is to simplify program verification.
 I recently obtained my PhD
