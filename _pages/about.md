@@ -48,14 +48,14 @@ The goal of this work is to reduce unbounded memory safety proofs to bounded one
   * Extended Abstract
     [[arXiv](https://arxiv.org/abs/2309.09731)]
 * Invited talks on completeness thresholds:
+  * [Programming Technology Group @ University of Oslo](https://www.mn.uio.no/ifi/english/?vrtx=unit-view&areacode=150527),
+    planned for May 2024
   * Programming Languages and Verification Seminar @ Portland State University
     [[Slides](https://github.com/tobireinhard/Publications/raw/master/talks/invited/PSU--PLV_seminar--CTs--2023/PSU_2023--ct4ms--presentation.pdf)],
     November 2023
   * [Programming Group @ HSG, St Gallen](https://programming-group.com)
     [[Slides](https://github.com/tobireinhard/Publications/raw/master/talks/invited/HSG--Programming_Group--CTs--2023/HSG_2023--ct4ms--presentation.pdf)],
     October 2023
-  * [Programming Technology Group @ University of Oslo](https://www.mn.uio.no/ifi/english/?vrtx=unit-view&areacode=150527),
-    planned for May 2024
 [](
 Previously, I developed a separation-logic-based technique
 ([ghost signals](https://link.springer.com/chapter/10.1007/978-3-030-81688-9_2))
