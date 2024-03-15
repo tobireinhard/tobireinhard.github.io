@@ -5,7 +5,7 @@ permalink: /publication/2023-09-18--ct4ms-extended_abstract
 excerpt: 'Bounded proofs are convenient to use due to the high degree of automation that exhaustive checking affords. 
 However, they fall short of providing the robust assurances offered by unbounded proofs.
 We sketch how completeness thresholds serve as a bridge, allowing us to derive unbounded guarantees from bounded proofs. 
-Using a bubble sort implementation as example, we demonstrate that a bounded proof only needs to consider a few specific inputs to yield unbounded guarantees.Test'
+Using a bubble sort implementation as example, we demonstrate that a bounded proof only needs to consider a few specific inputs to yield unbounded guarantees.'
 date: 2023-09-18
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2309.09731'
