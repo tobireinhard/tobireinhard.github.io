@@ -14,7 +14,6 @@ redirect_from:
   [KU Leuven](https://www.kuleuven.be/english/kuleuven/),
   working on verification techniques for heap-manipulating programs and supervised by [Bart Jacobs](https://distrinet.cs.kuleuven.be/people/bartj).
 )
-
 I'm a postdoc and software verification expert at
 [DistriNet](https://distrinet.cs.kuleuven.be),
 [KU Leuven](https://www.kuleuven.be/english/)
