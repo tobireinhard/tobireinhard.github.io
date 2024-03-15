@@ -19,6 +19,7 @@ I'm a postdoc and software verification expert at
 [DistriNet](https://distrinet.cs.kuleuven.be),
 [KU Leuven](https://www.kuleuven.be/english/)
 working on verification techniques for imperative, heap-manipulating programs.
+My overall goal is to simplify program verification.
 I recently completed my PhD on liveness verification and completeness thresholds
 [](
   at
@@ -31,7 +32,6 @@ under the supervision of
   [[Lirias (KU Leuven)](https://lirias.kuleuven.be/4140343&lang=en)]
   [[arXiv](https://arxiv.org/abs/2403.00934)]
 
-My overall goal is to simplify program verification.
 My current research focuses on *completeness thresholds* for memory safety proofs.
 The goal of this work is to reduce unbounded memory safety proofs to bounded ones.
 * *Completeness Thresholds for Memory Safety of Array Traversing Programs*,
