@@ -28,9 +28,10 @@ I recently completed my PhD on liveness verification and completeness thresholds
 under the supervision of 
 [Bart Jacobs](https://distrinet.cs.kuleuven.be/people/bartj).
 
-Dissertation: *Semi-Automated Modular Formal Verification of Critical Software: Liveness and Completeness Thresholds*
-  [[Lirias (KU Leuven)](https://lirias.kuleuven.be/4140343&lang=en)]
-  [[arXiv](https://arxiv.org/abs/2403.00934)]
+Dissertation | *Semi-Automated Modular Formal Verification of Critical Software:
+             | Liveness and Completeness Thresholds*
+             | [[Lirias (KU Leuven)](https://lirias.kuleuven.be/4140343&lang=en)]
+             | [[arXiv](https://arxiv.org/abs/2403.00934)]
 
 My current research focuses on *completeness thresholds* for memory safety proofs.
 The goal of this work is to reduce unbounded memory safety proofs to bounded ones.
