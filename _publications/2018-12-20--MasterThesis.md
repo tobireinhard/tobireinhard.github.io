@@ -2,7 +2,7 @@
 title: "[Master Thesis] A Type System for Static Latency Tracking"
 collection: publications
 permalink: /publication/2018-12-20--MasterThesis
-excerpt: 'We propose a language design which makes latency and locations explicit and extracts static type-level bounds for a computation’s runtime latency.'
+excerpt: 'We propose a novel language design that supports static reasoning about runtime latency. It makes latency and locations explicit and extracts static type-level bounds for a computation’s runtime latency.'
 date: 2018-12-20
 venue: 'TU Darmstadt'
 paperurl: 'https://raw.githubusercontent.com/tobireinhard/Publications/master/theses/MasterThesis--Tobias_Reinhard--StaticLatencyTracking.pdf'
