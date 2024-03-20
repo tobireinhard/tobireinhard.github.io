@@ -2,10 +2,8 @@
 title: "Completeness Thresholds for Memory Safety of Array Traversing Programs"
 collection: publications
 permalink: /publication/2023-06-17--ct4ms-arrays
-excerpt: 'We report on intermediate results of -- to the best of our knowledge -- the first study of completeness thresholds for (partially) bounded memory safety proofs.
-Specifically, we consider heap-manipulating programs that iterate over arrays without allocating or freeing memory. In this setting, we present the first notion of completeness thresholds for program verification which reduce unbounded memory safety proofs to (partially) bounded ones.
-Moreover, we demonstrate that we can characterise completeness thresholds for simple classes of array traversing programs.
-Finally, we suggest avenues of research to scale this technique theoretically, i.e., to larger classes of programs (heap manipulation, tree-like data structures), and practically by highlighting automation opportunities.'
+excerpt: 'We report on intermediate results of the first study of completeness thresholds for bounded memory safety proofs.
+These completeness thresholds allow us to reduce unbounded proofs to bounded ones.'
 date: 2023-06-17
 venue: 'SOAP'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3589250.3596143'
