@@ -2,9 +2,7 @@
 title: "Ghost Signals: Verifying Termination of Busy Waiting"
 collection: publications
 permalink: /publication/2021-07-18-GhostSignals
-excerpt: 'We propose the first separation logic to modularly verify termination of busy-waiting.
-Our logic requires the proof author to associate a so-called _ghost signal_ with each busy-waiting loop and allows such loops to iterate while their corresponding signal is not set.
-By using conventional shared state invariants to associate the state of ghost signals with the state of data structures, programs busy-waiting for arbitrary conditions over arbitrary data structures can be verified.'
+excerpt: 'We propose the first separation logic to modularly verify termination of busy-waiting. We achieve this by introducing a novel type of ghost resource, called _ghost signals_.'
 date: 2021-07-18
 venue: 'CAV'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-81688-9_2'
