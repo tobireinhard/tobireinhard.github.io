@@ -2,9 +2,8 @@
 title: "Completeness Thresholds for Memory Safety of Array Traversing Programs: Early Technical Report"
 collection: publications
 permalink: /publication/2022-11-21--ct4ms-arrays--TR
-excerpt: 'In this early technical report on an ongoing project, we present -- to the best of our knowledge -- the first study of completeness thresholds for memory safety proofs. 
-Specifically we consider heap-manipulating programs that iterate over arrays without allocating or freeing memory. We present the first notion of completeness thresholds for program verification which reduce unbounded memory safety proofs to bounded ones. 
-Moreover, we present some preliminary ideas on how completeness thresholds can be computed for concrete programs.'
+excerpt: 'This technical report provides an overview of an ongoing project: The first study of completeness thresholds for bounded memory safety proofs.
+These completeness thresholds allow us to reduce unbounded proofs to bounded ones.'
 date: 2023-05-05
 venue: 'arxiv.org'
 paperurl: 'https://arxiv.org/abs/2211.11885'
