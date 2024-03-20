@@ -3,6 +3,7 @@ title: "Ghost Signals: Verifying Termination of Busy Waiting"
 collection: talks
 type: "Talk"
 permalink: /talks/2021-07-20--CAV-GhostSignals
+excerpt: 'We propose the first separation logic to modularly verify termination of busy-waiting. We achieve this by introducing a novel type of ghost resource, called _ghost signals_.'
 venue: "CAV 2021"
 date: 2021-07-20
 location: "online (virtual conference)"
