@@ -2,7 +2,7 @@
 title: "A Separation Logic to Verify Termination of Busy-Waiting for Abrupt Program Exit: Technical Report"
 collection: publications
 permalink: /publication/2020-07-20--AbruptExit--TR
-excerpt: 'We propose a separation logic for modularly verifying termination of programs where some threads  eventually  abruptly  terminate  the  program, and other threads busy-wait for this to happen. This work is a first step towards verifying termination of programs involving busy-waiting for arbitrary events.'
+excerpt: 'This technical report describes a separation logic to modularly verify termination of programs where threads busy wait for abrupt termination. This is a first step towards verifying termination of programs involving busy waiting for arbitrary events.'
 date: 2020-07-20
 venue: 'arxiv.org'
 paperurl: 'https://arxiv.org/abs/2007.10215'
