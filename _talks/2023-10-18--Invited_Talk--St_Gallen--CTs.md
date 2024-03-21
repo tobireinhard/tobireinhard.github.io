@@ -4,7 +4,7 @@ collection: talks
 type: "Invited Talk"
 permalink: /talks/2023-10-18--Invited_Talk--St_Gallen--CTs
 excerpt: 'In this invited talk, we present the first notion of completeness thresholds for memory safety proofs. They allow us to reduce unbounded memory safety proofs to bounded ones.'
-venue: "Programming Group @ HSG, St. Gallen"
+venue: "Programming Group @ HSG, St. Gallen, Switzerland"
 date: 2023-10-18
 location: "St. Gallen, Switzerland"
 ---
