@@ -15,8 +15,8 @@ redirect_from:
   working on verification techniques for heap-manipulating programs and supervised by [Bart Jacobs](https://distrinet.cs.kuleuven.be/people/bartj).
 )
 I'm a postdoc and software verification expert at
-[DistriNet](https://distrinet.cs.kuleuven.be),
-[KU Leuven](https://www.kuleuven.be/english/)
+[Software Technology Group](https://www.stg.tu-darmstadt.de),
+[TU Darmstadt](https://www.tu-darmstadt.de/index.en.jsp)
 working on verification techniques for imperative, heap-manipulating programs.
 My overall goal is to simplify program verification.
 I recently completed my PhD on liveness verification and completeness thresholds
