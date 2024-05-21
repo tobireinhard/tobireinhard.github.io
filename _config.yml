@@ -84,10 +84,10 @@ author:
   avatar           : "profile.jpg"
   pronouns         : "he/they"
   bio              : "Postdoc @ TU Darmstadt"
-  location         : Leuven, Belgium
-  locationLink     : "https://goo.gl/maps/JVtfxuY3MBf8j1PXA"
-  location2        : Frankfurt a.M., Germany
-  location2Link    : "https://goo.gl/maps/tHty9X7gcApcxPL16"
+  location         : Frankfurt a.M., Germany
+  locationLink     : "https://goo.gl/maps/tHty9X7gcApcxPL16"
+  # location2        : Leuven, Belgium
+  # location2Link    : "https://goo.gl/maps/JVtfxuY3MBf8j1PXA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=2a0ibrUAAAAJ&hl=en"
