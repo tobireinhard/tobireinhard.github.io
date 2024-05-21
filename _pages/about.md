@@ -54,7 +54,8 @@ The goal of this work is to reduce unbounded memory safety proofs to bounded one
     [[arXiv](https://arxiv.org/abs/2309.09731)]
 * Invited talks on completeness thresholds:
   * [Programming Technology Group @ University of Oslo](https://www.mn.uio.no/ifi/english/?vrtx=unit-view&areacode=150527),
-    planned for May 2024
+    [[Slides](https://github.com/tobireinhard/Publications/raw/master/talks/invited/UiO--Programming_Technology_Group--CTs--2024/UiO_2024-ct4ms--presentation.pdf)]
+    May 2024
   * Programming Languages and Verification Seminar @ Portland State University
     [[Slides](https://github.com/tobireinhard/Publications/raw/master/talks/invited/PSU--PLV_seminar--CTs--2023/PSU_2023--ct4ms--presentation.pdf)],
     November 2023
