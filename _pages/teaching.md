@@ -15,6 +15,8 @@ linkBvP: https://onderwijsaanbod.kuleuven.be/syllabi/n/G0N28AN.htm#activetab=doe
 
 Year | University   | Course  
 -----|--------------|--------------------------------------
+2024 | TU Darmstadt | Software Engineering Project (industry collaboration)
+2024 | TU Darmstadt | Program Analysis
 2023 | KU Leuven    | [Principles of Programming]({{page.linkBvP}})
 2023 | KU Leuven    | [Object-Oriented Programming]({{page.linkOGP}})
 2022 | KU Leuven    | [Object-Oriented Programming]({{page.linkOGP}})
