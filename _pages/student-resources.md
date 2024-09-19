@@ -1,11 +1,8 @@
 ---
-permalink: /
+permalink: /student-resources
 title: "Resources for Students"
 excerpt: "Resources for students"
 author_profile: true
-redirect_from:
-  - /student-resources/
-  - /student-resources.html
 ---
 
 
@@ -56,5 +53,3 @@ Separation logic is a powerful means to reason about imperative programs that wo
     + Reasoning about data structures: Arrays, Lists
     + SL flavours: *Affine / intuitionistic* SL vs *linear / classical* SL
   Focusses on classical / linear SL.
-- 
-
