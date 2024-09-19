@@ -53,3 +53,11 @@ Separation logic is a powerful means to reason about imperative programs that wo
     + Reasoning about data structures: Arrays, Lists
     + SL flavours: *Affine / intuitionistic* SL vs *linear / classical* SL
   Focusses on classical / linear SL.
+
+
+
+# Program Slicing
+- [University Stuttgart: Program Analysis course (Winter Semester 2020/21)](https://software-lab.org/teaching/winter2020/pa/)
+  + [Lecture: Introduction](https://www.youtube.com/watch?v=4qTgXbkIglc)
+  + [Lecture: Static Slicing](https://www.youtube.com/watch?v=4qTgXbkIglc)
+- [A Vocabulary of Program Slicing-Based Techniques](https://personales.upv.es/josilga/papers/Vocabulary.pdf)
