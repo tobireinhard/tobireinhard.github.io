@@ -1,5 +1,5 @@
 ---
-permalink: /student-resources
+permalink: /student-resources/
 title: "Resources for Students"
 excerpt: "Resources for students"
 author_profile: true
