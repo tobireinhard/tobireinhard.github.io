@@ -124,7 +124,7 @@ During my previous research project, I developed a separation logic to verify li
   [CAV 2021](http://i-cav.org/2021/accepted-papers/)  
   [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-81688-9_2)]
   [[Extended Version](https://arxiv.org/abs/2010.11762)]
-  [[TR](https://people.cs.kuleuven.be/~tobias.reinhard/ghostSignals--TR.pdf)]
+  [[TR](https://zenodo.org/records/4775181)]
   [[Bibtex](https://raw.githubusercontent.com/tobireinhard/Publications/master/papers/ghostSignals.bib)]
 
 * *A Separation Logic to Verify Termination of Busy-Waiting for Abrupt Program Exit*,

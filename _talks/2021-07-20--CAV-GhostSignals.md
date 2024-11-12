@@ -18,5 +18,5 @@ By using conventional shared state invariants to associate the state of ghost si
 [[Presentation](https://ucl-pplv.github.io/CAV21/poster_P_158/)]
 [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-81688-9_2)]  
 [[Extended Version](https://arxiv.org/abs/2010.11762)]
-[[Technical Report](https://people.cs.kuleuven.be/~tobias.reinhard/ghostSignals--TR.pdf)]
+[[Technical Report](https://zenodo.org/records/4775181)]
 (Full formalization and proofs.)  
