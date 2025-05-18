@@ -83,8 +83,8 @@ table, tr, td {
 
 Program Verification  | Automated Reasoning
 Separation Logic      | Bounded & Unbounded Proofs
-Programming Languages | Type Systems
-Static Analysis       | Reversible Programming
+Incremental Computing | Programming Languages 
+Type Systems          | Static Analysis
 
 
 ## AWS
