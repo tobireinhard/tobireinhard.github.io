@@ -15,11 +15,11 @@ linkBvP: https://onderwijsaanbod.kuleuven.be/syllabi/n/G0N28AN.htm#activetab=doe
 
 Year | University   | Course  
 -----|--------------|--------------------------------------
-2025 | TU Darmstadt | [(Lab, Industry Collaboration) Software Engineering Project](https://stg-tud.github.io/sep/) (organizer)
+2025 | TU Darmstadt | [(Lab, Industry Collaboration) Software Engineering Project](https://stg-tud.github.io/sep/) (co-organizer)
      |              | [(Seminar) Design and Implementation of Modern Programming Languages](https://stg-tud.github.io/DAIMPL-web/index.html#seminar%20(e5fd56a9))
      |              | [(Lab) Implementation of Modern Programming Languages](https://stg-tud.github.io/DAIMPL-web/index.html#project%20(e5fd56a9))
      |              | Several master's theses
-2024 | TU Darmstadt | [(Lab, Industry Collaboration) Software Engineering Project](https://stg-tud.github.io/sep/) (organizer)
+2024 | TU Darmstadt | [(Lab, Industry Collaboration) Software Engineering Project](https://stg-tud.github.io/sep/) (co-organizer)
      |              | [(Seminar) Design and Implementation of Modern Programming Languages](https://stg-tud.github.io/DAIMPL-web/index.html#seminar%20(e5fd56a9))
      |              | [(Lab) Implementation of Modern Programming Languages](https://stg-tud.github.io/DAIMPL-web/index.html#project%20(e5fd56a9))
      |              | [(Seminar) Foundations of Static Analysis](https://www.stg.tu-darmstadt.de/teaching_stg/courses_stg/ws_2023/foundations_of_static_analyses_2/foundations_of_static_analyses_4.en.jsp)
