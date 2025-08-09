@@ -10,9 +10,10 @@ redirect_from:
 
 I'm a postdoc and software verification expert at the 
 [Software Technology Group](https://www.stg.tu-darmstadt.de),
-[TU Darmstadt](https://www.tu-darmstadt.de/index.en.jsp)
+[TU Darmstadt](https://www.tu-darmstadt.de/index.en.jsp).
 My research focuses on automated reasoning, static analysis, and tool development for safety- and mission-critical C code.
-Notable projects include working with the CBMC development team at AWS (a bounded model checker for C/C++) on scaling bounded to unbounded verification, as well as the formal verification of FreeRTOS’ multi-core scheduler at AWS.
+Notable projects include working with the CBMC development team at AWS (a bounded model checker for C/C++) on scaling bounded to unbounded verification.
+Also at AWS, I also formally verified memory- and thread-safety of FreeRTOS' multi-core scheduler.
 I also have a strong development background in Rust and C++.
 
 
