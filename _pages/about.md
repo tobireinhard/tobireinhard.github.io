@@ -8,36 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-[](I'm a PhD candidate at
-  [DistriNet](https://distrinet.cs.kuleuven.be)
-  at
-  [KU Leuven](https://www.kuleuven.be/english/kuleuven/),
-  working on verification techniques for heap-manipulating programs and supervised by [Bart Jacobs](https://distrinet.cs.kuleuven.be/people/bartj).
-)
-I'm a postdoc and software verification expert at
+I'm a postdoc and software verification expert at the 
 [Software Technology Group](https://www.stg.tu-darmstadt.de),
 [TU Darmstadt](https://www.tu-darmstadt.de/index.en.jsp)
-working on verification techniques for imperative, heap-manipulating programs.
-My overall goal is to simplify program verification.
-I recently completed my PhD on liveness verification and completeness thresholds
-[](
-  at
-  [DistriNet](https://distrinet.cs.kuleuven.be),
-  [KU Leuven](https://www.kuleuven.be/english/kuleuven/)
-)
-under the supervision of 
-[Bart Jacobs](https://distrinet.cs.kuleuven.be/people/bartj).
+My research focuses on automated reasoning, static analysis, and tool development for safety- and mission-critical C code.
+Notable projects include working with the CBMC development team at AWS (a bounded model checker for C/C++) on scaling bounded to unbounded verification, as well as the formal verification of FreeRTOS’ multi-core scheduler at AWS.
+I also have a strong development background in Rust and C++.
 
 
-## Dissertation
-*Semi-Automated Modular Formal Verification of Critical Software: Liveness and Completeness Thresholds*,
-KU Leuven 2024  
-[[Lirias (KU Leuven)](https://lirias.kuleuven.be/4140343&lang=en)]
-[[arXiv](https://arxiv.org/abs/2403.00934)]
+
+## Tooling For Automated Reasoning About C (Under Development)
+Deductive verification of C code is often more complex than writing the code itself.
+This is partly due to the inherent difficulty of verification, but also to the fact that state-of-the-art verifiers are not designed with usability in mind. 
+Proof languages and automation have not kept pace with the advances seen in mainstream programming languages over recent decades. 
+As a result, users must often spell out proof details that could, in principle, be inferred automatically.
+
+To make verification more accessible, I am developing a new, ergonomic deductive verifier for C (based on separation logic). 
+The current research focus is on automating reasoning about heap data structures, significantly reducing the manual overhead involved in specifying proof details.
+
+Interfacing with Lean4: Automation inevitably comes at the cost of expressivity. 
+To address this, the verifier will support integration with Lean4. 
+When higher expressivity is required, users will be able to carry out specific subproofs in Lean, accepting the additional effort in exchange for its richer proof language and dependent type system.
 
 
-## Completeness Thresholds
-My current research focuses on *completeness thresholds* for memory safety proofs.
+
+
+
+## Completeness Thresholds (Ongoing)
+Besides building verifier, my current research focuses on *completeness thresholds* for memory safety proofs.
 The goal of this work is to reduce unbounded memory safety proofs to bounded ones.
 * *Completeness Thresholds for Memory Safety of Array Traversing Programs*,
   [SOAP 2023](https://pldi23.sigplan.org/home/SOAP-2023#event-overview)  
@@ -71,6 +69,7 @@ to verify liveness properties of concurrent programs.
 [](blank line)
 ` `  
 
+
 ## Research Interests
 My general research interests are:
 
@@ -82,9 +81,17 @@ table, tr, td {
 </style>
 
 Program Verification  | Automated Reasoning
+Programming Languages & Tooling | Static Analysis
 Separation Logic      | Bounded & Unbounded Proofs
-Incremental Computing | Programming Languages 
-Type Systems          | Static Analysis
+Incremental Computing | Type Systems
+
+
+## Dissertation
+*Semi-Automated Modular Formal Verification of Critical Software: Liveness and Completeness Thresholds*,
+KU Leuven 2024  
+[[Lirias (KU Leuven)](https://lirias.kuleuven.be/4140343&lang=en)]
+[[arXiv](https://arxiv.org/abs/2403.00934)]
+
 
 
 ## AWS
@@ -112,7 +119,7 @@ Using
 a deductive verifier for C based on separation logic, I proved the scheduler to be memory and thread safe, once my fix has been applied.
 The proof is an *unbounded* proof, that is, the provided guarantees hold for all possible interleavings and no matter how big the involved data structures are.
 
-During my 2021 internship I explored ways to progress from bounded to unbounded verification.
+During my 2021 internship I explored modular approaches to scale CBMC from bounded to unbounded verification.
 My research focused on (automatic) memory safety proofs for heap-manipulating programs that involve inductive data structures.
 I worked on separation-logic based deductive verification as well as on a research prototype that's based on a mixture of automatic axiom instantiation and term rewriting.
 
