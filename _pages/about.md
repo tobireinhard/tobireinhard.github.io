@@ -8,17 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoc and software verification expert at the 
+I'm a postdoctoral researcher at the 
 [Software Technology Group](https://www.stg.tu-darmstadt.de),
 [TU Darmstadt](https://www.tu-darmstadt.de/index.en.jsp).
-My research focuses on automated reasoning, static analysis, and tool development for safety- and mission-critical C code.
+My research focuses on automated reasoning, neurosymbolic AI, verification/ static analysis, and tool development for safety- and mission-critical C code.
 Notable projects include working with the CBMC development team at AWS (a bounded model checker for C/C++) on scaling bounded to unbounded verification.
 Also at AWS, I formally verified memory- and thread-safety of FreeRTOS' multi-core scheduler.
 I have a strong development background in Rust, Python and C++.
 
 
+## Neurosymbolic AI for Code Reasoning
+In recent years, we've seen remarkable advances in generative AI through large language models (LLMs).  
+They are capable of writing code, mimicking human reasoning processes and making complex decisions.  
+Yet, they severely suffer from hallucinations, i.e., producing reasonably seeming but incorrect results,  
+which diminishes their reliability in critical fields like program verification and analysis.
 
-## Tooling For Automated Reasoning About C (Under Development)
+To address this, my research focuses on combining neural and symbolic approaches to reasoning about code.  
+By integrating LLMs with formal verification techniques, I aim to make AI-driven reasoning both intelligent and verifiable,  
+and ultimately to make formal verification scalable.
+
+
+
+## Tooling For Automated Reasoning About C
 Deductive verification of C code is often more complex than writing the code itself.
 This is partly due to the inherent difficulty of verification, but also to the fact that state-of-the-art verifiers are not designed with usability in mind. 
 Proof languages and automation have not kept pace with the advances seen in mainstream programming languages over recent decades. 
@@ -27,17 +38,11 @@ As a result, users must often spell out proof details that could, in principle, 
 To make verification more accessible, I am developing a new, ergonomic deductive verifier for C (based on separation logic). 
 The current research focus is on automating reasoning about heap data structures, significantly reducing the manual overhead involved in specifying proof details.
 
-Interfacing with Lean4: Automation inevitably comes at the cost of expressivity. 
-To address this, the verifier will support integration with Lean4. 
-When higher expressivity is required, users will be able to carry out specific subproofs in Lean, accepting the additional effort in exchange for its richer proof language and dependent type system.
 
 
-
-
-
-## Completeness Thresholds (Ongoing)
-Besides building verifier, my current research focuses on *completeness thresholds* for memory safety proofs.
-The goal of this work is to reduce unbounded memory safety proofs to bounded ones.
+## Completeness Thresholds
+In the past, I also worked on *completeness thresholds* for memory safety proofs.
+The goal of this work was to reduce unbounded memory safety proofs to bounded ones.
 * *Completeness Thresholds for Memory Safety of Array Traversing Programs*,
   [SOAP 2023](https://pldi23.sigplan.org/home/SOAP-2023#event-overview)  
   [Paper
@@ -81,10 +86,9 @@ table, tr, td {
 }
 </style>
 
-Program Verification  | Automated Reasoning
-Programming Languages & Tooling | Static Analysis
-Separation Logic      | Bounded & Unbounded Proofs
-Incremental Computing | Type Systems
+Automated Reasoning   | Program Verification & Static Analysis
+Neurosymbolic AI      | Proof Automation
+Agentic AI            | Programming Languages & Tooling
 
 
 ## Dissertation
