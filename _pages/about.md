@@ -11,7 +11,7 @@ redirect_from:
 I'm a postdoctoral researcher at the 
 [Software Technology Group](https://www.stg.tu-darmstadt.de),
 [TU Darmstadt](https://www.tu-darmstadt.de/index.en.jsp).
-My research focuses on automated reasoning, neurosymbolic AI, verification/ static analysis, and tool development for safety- and mission-critical C code.
+My research focuses on automated reasoning, neurosymbolic AI, software verification/ static analysis, and tool development for safety- and mission-critical C code.
 Notable projects include working with the CBMC development team at AWS (a bounded model checker for C/C++) on scaling bounded to unbounded verification.
 Also at AWS, I formally verified memory- and thread-safety of FreeRTOS' multi-core scheduler.
 I have a strong development background in Rust, Python and C++.
