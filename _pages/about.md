@@ -20,7 +20,7 @@ I have a strong development background in Rust, Python and C++.
 ## Neurosymbolic AI for Code Reasoning
 In recent years, we've seen remarkable advances in generative AI through large language models (LLMs).
 They are capable of writing code, mimicking human reasoning processes and making complex decisions.
-Yet, they severely suffer from hallucinations, i.e., producing reasonably seeming but incorrect results,  
+Yet, they severely suffer from hallucinations, i.e., producing reasonably seeming but incorrect results,
 which diminishes their reliability in critical fields like program verification and analysis.
 
 To address this, my research focuses on combining neural and symbolic approaches to reasoning about code.
