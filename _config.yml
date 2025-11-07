@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Tobias Reinhard"
   avatar           : "profile.jpg"
-  pronouns         : "he/they"
+  # pronouns         : "he/they"
   bio              : "Postdoc @ TU Darmstadt"
-  location         : Frankfurt a.M., Germany
-  locationLink     : "https://goo.gl/maps/tHty9X7gcApcxPL16"
+  # location         : Frankfurt a.M., Germany
+  # locationLink     : "https://goo.gl/maps/tHty9X7gcApcxPL16"
   # location2        : Leuven, Belgium
   # location2Link    : "https://goo.gl/maps/JVtfxuY3MBf8j1PXA"
   employer         :
@@ -100,7 +100,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tobireinhard"
+  # github           : "tobireinhard"
   google_plus      :
   keybase          :
   instagram        :
